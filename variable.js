@@ -4,9 +4,9 @@ var age = 17;
 var temparature = 38;
 var age = 18;
 //string
-var person ="hamim"
-var person ="jihad islam"
-var age = 'four'
+var person ="hamim";
+var person ="jihad islam";
+var age = 'four';
 //bulion
 var serious = true;
 var single = false;
